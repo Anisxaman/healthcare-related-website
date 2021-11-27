@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "HEART SURGERY",
+      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "img": "https://images.pexels.com/photos/3844581/pexels-photo-3844581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "mail":"zvsdf@gmail.com",
+      "phone":"04235243466"
+    },
+    {
+      "id": 2,
+      "name": "DENTAL CARE",
+      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "img": "https://images.pexels.com/photos/3845626/pexels-photo-3845626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "mail":"zvsdf@gmail.com",
+      "phone":"04235243466"
+    },
+    {
+      "id": 3,
+      "name": "BACK PAIN",
+      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "img": "https://images.pexels.com/photos/4506113/pexels-photo-4506113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "mail":"zvsdf@gmail.com",
+      "phone":"04235243466"
+    },
+    {
+      "id": 4,
+      "name": "BABY CARE",
+      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "img": "https://images.pexels.com/photos/7088841/pexels-photo-7088841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "mail":"zvsdf@gmail.com",
+      "phone":"04235243466"
+    },
+    {
+      "id": 5,
+      "name": "PREGNENCY CARE",
+      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "img": "https://images.pexels.com/photos/3845115/pexels-photo-3845115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "mail":"zvsdf@gmail.com",
+      "phone":"04235243466"
+    },
+    {
+      "id": 6,
+      "name": "IMERGENCY CARE",
+      "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+      "img": "https://images.pexels.com/photos/4047186/pexels-photo-4047186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "mail":"yuzvsdf@gmail.com",
+      "phone":"0423dfgf243466"
+    }
+ 
+    
+    
+  ]
